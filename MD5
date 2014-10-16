@@ -1,0 +1,13 @@
+c190939519f2025268721f96bcc48755 *DESCRIPTION
+f0536ff6c1b858d347c5eb5340e0e61c *NAMESPACE
+135ad04eda795c0f89de6e4f33c8543d *R/qdm.R
+078539a2f964a12dd0d8c5c253616956 *R/samediff.R
+b3f60d92b7ce5b95fc84b21095ca0a52 *data/FMrate.txt.gz
+4c0b3285c516762b032be6ec9ec115a2 *data/datalist
+3519bca9fded27f3b8282f59c5cdc6ac *data/lightness.txt.gz
+03323a2cde54da44082ed623437d957b *man/FMrate.Rd
+9daed55f732b6174565a8fd2c3f62be0 *man/lightness.Rd
+45a2a1190e4fcc2165a1c27f1c64ac2c *man/persp.qdm.Rd
+f166d3c9e9ce77ff2770023469d41d08 *man/predict.qdm.Rd
+fdce2215f4db5fdcc755eeffa62fbec1 *man/qdm.Rd
+4a7f5f7a52cfc9db919fc6d7d75006c3 *man/samediff.Rd
